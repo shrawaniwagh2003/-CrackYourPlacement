@@ -22,8 +22,7 @@
 //     = [nums[5], nums[0], nums[1], nums[2], nums[3], nums[4]]
 //     = [4,5,0,1,2,3]
 
-
-
+package Array.Easy;
 class ArrayPermutation {
     public int[] buildArray(int[] nums) {
         int[] arr = new int[nums.length];
